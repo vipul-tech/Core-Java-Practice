@@ -8,9 +8,9 @@ public class ArrayDequeExample {
 		ArrayDeque<Integer> ad = new ArrayDeque<>();
 		ad.add(52);
 		ad.add(95);
-		ad.add(49);
 		ad.add(69);
 		ad.add(33);
+		ad.add(90);
 		
 		for(Integer i : ad)
 			System.out.print(i + " ");
