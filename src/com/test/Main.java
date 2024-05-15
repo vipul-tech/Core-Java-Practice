@@ -11,6 +11,7 @@ public class Main {
 		int a=10;
 		a *= 2+3;
 		System.out.println(a);
+		System.out.println("Hello World!");
 		HashMap<String, Integer> map = new HashMap<String, Integer>();
 		map.put("Vipul", 54);
 		map.put("Sunny", 52);
